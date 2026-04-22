@@ -5,7 +5,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ---
 
-## 🚀 Features
+## 🚀Features
 - Fully responsive design (mobile, tablet & desktop friendly)
 - Clean and modern UI
 - Sections: About Me, Projects, Skills, Contact
