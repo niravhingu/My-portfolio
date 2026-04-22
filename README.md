@@ -14,7 +14,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ---
 
-## 🛠 Technologies Used
+## 🛠Technologies Used
 - HTML
 - CSS
 - JavaScript
