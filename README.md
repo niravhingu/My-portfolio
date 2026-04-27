@@ -3,7 +3,7 @@
 ## 📌 Overview
 This is my personal portfolio website built to showcase my skills, projects, and contact information. It represents my work as a web developer with a clean and professional design.
 
----
+----
 
 ## 🚀Features
 - Fully responsive design (mobile, tablet & desktop friendly)
